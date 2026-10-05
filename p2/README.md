@@ -282,6 +282,8 @@ Recuperamos el fondo aprendido por MOG2 con `getBackgroundImage()` y le aplicamo
 
 Finalmente mostramos tanto el resultado con la cortina como la máscara de movimiento detectado, por separado, para poder comprobar que la detección funciona correctamente. El programa termina al pulsar ESC, y la tecla 'b' permite reiniciar el modelo de fondo si este cambia de verdad y deja de representar correctamente la escena estática.
 
+<video controls src="t3.mp4" title="AÑADIR UN VÍDEO DE COMO SE VE"></video>
+
 ---
 
 # Autoría
