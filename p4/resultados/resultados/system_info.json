@@ -1,0 +1,8 @@
+{
+ "python": "3.13.16",
+ "torch": "2.14.1+cu130",
+ "ultralytics": "8.4.211",
+ "gpu": "Tesla T4",
+ "cpu": "x86_64",
+ "ram_gb": 13.6
+}

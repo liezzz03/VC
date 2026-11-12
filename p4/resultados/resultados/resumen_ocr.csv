@@ -1,0 +1,4 @@
+motor,n,acierto_pct,cer_medio,tiempo_medio_ms,tiempo_mediano_ms,tiempo_p95_ms,img_por_s
+easyocr,29,27.59,1.51,111.21,89.86,220.46,8.99
+easyocr_filtrado,29,79.31,0.03,102.26,77.23,203.77,9.78
+smolvlm,29,79.31,0.11,583.68,576.99,807.56,1.71

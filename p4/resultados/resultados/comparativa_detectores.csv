@@ -1,0 +1,3 @@
+modelo,P@0.25,R@0.25,mAP50,mAP50-95,parametros_M,peso_best_pt_MB,total_ms,img_por_s,tiempo_entrenamiento_min,tasa_deteccion_%
+YOLO11n,0.845,0.806,0.847,0.439,2.6,5.5,14.7,67.9,21.1,37.1
+RT-DETR-L,0.828,0.855,0.854,0.466,32.8,66.2,42.5,23.5,82.6,82.3
