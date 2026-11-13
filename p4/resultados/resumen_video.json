@@ -1,0 +1,42 @@
+{
+ "fotogramas_leidos": 2832,
+ "fotogramas_procesados": 2832,
+ "salto": 1,
+ "segundos_pasada": 308.2,
+ "fps_procesado": 9.19,
+ "identificadores_sin_filtrar": 268,
+ "objetos_contados": {
+  "persona": 15,
+  "autobus": 1,
+  "coche": 33,
+  "moto": 2,
+  "bicicleta": 1
+ },
+ "vehiculos_con_matricula_detectada": 32,
+ "vehiculos_con_texto_valido": 2,
+ "flujo": {
+  "personas": {
+   "se acerca": 3,
+   "se aleja": 8,
+   "izquierda": 1,
+   "derecha": 3,
+   "parado": 0
+  },
+  "vehículos": {
+   "se acerca": 18,
+   "se aleja": 17,
+   "izquierda": 2,
+   "derecha": 0,
+   "parado": 0
+  }
+ },
+ "detector_matriculas": "RT-DETR-L",
+ "ocr_video": [
+  "smolvlm",
+  "easyocr_filtrado"
+ ],
+ "lecturas": {
+  "516": "1770JWG",
+  "621": "1965KBP"
+ }
+}

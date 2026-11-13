@@ -1,0 +1,4 @@
+id,real,final,final_ok,smolvlm,smolvlm_ok,easyocr_filtrado,easyocr_filtrado_ok
+621,1965KBP,1965KBP,True,1965KBP,True,1965KBP,True
+516,1770JYG,1770JWG,False,1770JWG,False,,False
+589,7339LGG,,False,7358LCS,False,,False
